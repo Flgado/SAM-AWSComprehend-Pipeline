@@ -1,0 +1,16 @@
+{
+    "fileLocations": [
+      {
+        "URIPrefixes": [
+          "s3://deliverybucket-hid9918y2analisesfolgado/2025/02/"
+        ]
+      }
+    ],
+    "globalUploadSettings": {
+      "format": "JSON",
+      "delimiter": ",",
+      "textqualifier": "\"",
+      "containsHeader": "false"
+    }
+  }
+  
